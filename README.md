@@ -1,4 +1,1 @@
-# Wake Up Call
-Upcoming project for a musical wake up call with current news.
-
-This is a project I am gonna start soon. Heavily inspired by Darius Benson's video "Rap Hotel".
+# An hour after starting, I found [this](https://www.youtube.com/watch?v=Skkel1XRRiI) video, with Alexa. Where it can do exactly what I wanted to create.
